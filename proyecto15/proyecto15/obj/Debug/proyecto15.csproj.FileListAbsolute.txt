@@ -1,0 +1,10 @@
+C:\Users\johnb\source\repos\proyecto15\proyecto15\bin\Debug\proyecto15.exe.config
+C:\Users\johnb\source\repos\proyecto15\proyecto15\bin\Debug\proyecto15.exe
+C:\Users\johnb\source\repos\proyecto15\proyecto15\bin\Debug\proyecto15.pdb
+C:\Users\johnb\source\repos\proyecto15\proyecto15\obj\Debug\proyecto15.csproj.AssemblyReference.cache
+C:\Users\johnb\source\repos\proyecto15\proyecto15\obj\Debug\proyecto15.Form1.resources
+C:\Users\johnb\source\repos\proyecto15\proyecto15\obj\Debug\proyecto15.Properties.Resources.resources
+C:\Users\johnb\source\repos\proyecto15\proyecto15\obj\Debug\proyecto15.csproj.GenerateResource.cache
+C:\Users\johnb\source\repos\proyecto15\proyecto15\obj\Debug\proyecto15.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\proyecto15\proyecto15\obj\Debug\proyecto15.exe
+C:\Users\johnb\source\repos\proyecto15\proyecto15\obj\Debug\proyecto15.pdb
