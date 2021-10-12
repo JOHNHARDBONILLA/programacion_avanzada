@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ejerciciopractico/1.0.0": {
+        "runtime": {
+          "ejerciciopractico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejerciciopractico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

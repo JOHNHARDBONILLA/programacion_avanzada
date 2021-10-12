@@ -1,0 +1,11 @@
+C:\Users\johnb\source\repos\ejercico20\ejercico20\bin\Debug\ejercico20.exe.config
+C:\Users\johnb\source\repos\ejercico20\ejercico20\bin\Debug\ejercico20.exe
+C:\Users\johnb\source\repos\ejercico20\ejercico20\bin\Debug\ejercico20.pdb
+C:\Users\johnb\source\repos\ejercico20\ejercico20\obj\Debug\ejercico20.csproj.AssemblyReference.cache
+C:\Users\johnb\source\repos\ejercico20\ejercico20\obj\Debug\ejercico20.Form1.resources
+C:\Users\johnb\source\repos\ejercico20\ejercico20\obj\Debug\ejercico20.Form2.resources
+C:\Users\johnb\source\repos\ejercico20\ejercico20\obj\Debug\ejercico20.Properties.Resources.resources
+C:\Users\johnb\source\repos\ejercico20\ejercico20\obj\Debug\ejercico20.csproj.GenerateResource.cache
+C:\Users\johnb\source\repos\ejercico20\ejercico20\obj\Debug\ejercico20.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\ejercico20\ejercico20\obj\Debug\ejercico20.exe
+C:\Users\johnb\source\repos\ejercico20\ejercico20\obj\Debug\ejercico20.pdb

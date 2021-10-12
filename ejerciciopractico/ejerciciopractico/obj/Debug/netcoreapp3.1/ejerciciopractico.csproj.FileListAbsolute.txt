@@ -1,0 +1,16 @@
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.csproj.AssemblyReference.cache
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.Form1.resources
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.csproj.GenerateResource.cache
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.AssemblyInfoInputs.cache
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.AssemblyInfo.cs
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\bin\Debug\netcoreapp3.1\ejerciciopractico.exe
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\bin\Debug\netcoreapp3.1\ejerciciopractico.deps.json
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\bin\Debug\netcoreapp3.1\ejerciciopractico.runtimeconfig.json
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\bin\Debug\netcoreapp3.1\ejerciciopractico.runtimeconfig.dev.json
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\bin\Debug\netcoreapp3.1\ejerciciopractico.dll
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\bin\Debug\netcoreapp3.1\ejerciciopractico.pdb
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.dll
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.pdb
+C:\Users\johnb\source\repos\ejerciciopractico\ejerciciopractico\obj\Debug\netcoreapp3.1\ejerciciopractico.genruntimeconfig.cache
