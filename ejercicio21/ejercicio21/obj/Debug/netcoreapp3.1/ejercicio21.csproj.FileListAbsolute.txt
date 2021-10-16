@@ -1,0 +1,17 @@
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\bin\Debug\netcoreapp3.1\ejercicio21.exe
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\bin\Debug\netcoreapp3.1\ejercicio21.deps.json
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\bin\Debug\netcoreapp3.1\ejercicio21.runtimeconfig.json
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\bin\Debug\netcoreapp3.1\ejercicio21.runtimeconfig.dev.json
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\bin\Debug\netcoreapp3.1\ejercicio21.dll
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\bin\Debug\netcoreapp3.1\ejercicio21.pdb
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.csproj.AssemblyReference.cache
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.Form1.resources
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.Form2.resources
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.csproj.GenerateResource.cache
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.AssemblyInfoInputs.cache
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.AssemblyInfo.cs
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.dll
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.pdb
+C:\Users\johnb\source\repos\ejercicio21\ejercicio21\obj\Debug\netcoreapp3.1\ejercicio21.genruntimeconfig.cache
