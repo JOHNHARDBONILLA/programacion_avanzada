@@ -1,0 +1,16 @@
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\bin\Debug\netcoreapp3.1\ejercicio22.exe
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\bin\Debug\netcoreapp3.1\ejercicio22.deps.json
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\bin\Debug\netcoreapp3.1\ejercicio22.runtimeconfig.json
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\bin\Debug\netcoreapp3.1\ejercicio22.runtimeconfig.dev.json
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\bin\Debug\netcoreapp3.1\ejercicio22.dll
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\bin\Debug\netcoreapp3.1\ejercicio22.pdb
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.csproj.AssemblyReference.cache
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.Form1.resources
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.csproj.GenerateResource.cache
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.AssemblyInfoInputs.cache
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.AssemblyInfo.cs
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.dll
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.pdb
+C:\Users\johnb\source\repos\ejercicio22\ejercicio22\obj\Debug\netcoreapp3.1\ejercicio22.genruntimeconfig.cache
