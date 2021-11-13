@@ -1,0 +1,10 @@
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\bin\Debug\pruebabasedatos4.exe.config
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\bin\Debug\pruebabasedatos4.exe
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\bin\Debug\pruebabasedatos4.pdb
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\obj\Debug\pruebabasedatos4.csproj.AssemblyReference.cache
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\obj\Debug\pruebabasedatos4.Form1.resources
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\obj\Debug\pruebabasedatos4.Properties.Resources.resources
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\obj\Debug\pruebabasedatos4.csproj.GenerateResource.cache
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\obj\Debug\pruebabasedatos4.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\obj\Debug\pruebabasedatos4.exe
+C:\Users\johnb\source\repos\pruebabasedatos4\pruebabasedatos4\obj\Debug\pruebabasedatos4.pdb
