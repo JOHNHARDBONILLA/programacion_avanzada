@@ -1,0 +1,10 @@
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\bin\Debug\pruebabasededatos6.exe.config
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\bin\Debug\pruebabasededatos6.exe
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\bin\Debug\pruebabasededatos6.pdb
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\obj\Debug\pruebabasededatos6.csproj.AssemblyReference.cache
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\obj\Debug\pruebabasededatos6.Form1.resources
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\obj\Debug\pruebabasededatos6.Properties.Resources.resources
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\obj\Debug\pruebabasededatos6.csproj.GenerateResource.cache
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\obj\Debug\pruebabasededatos6.csproj.CoreCompileInputs.cache
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\obj\Debug\pruebabasededatos6.exe
+C:\Users\johnb\source\repos\pruebabasededatos6\pruebabasededatos6\obj\Debug\pruebabasededatos6.pdb
